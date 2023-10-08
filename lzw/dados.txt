@@ -1,0 +1,55 @@
+Arquivo: disco.mp4
+
+Para K = 9 Tempo: 1.627612829208374 segundos
+Tamanho máximo do dicionário: 512, tamanho dicionário compressão:512, razão de compressão: 0.50, razão de compressão 2° fórmula: 0.45 
+
+Para K = 10 Tempo: 1.5724318027496338 segundos
+Tamanho máximo do dicionário: 1024, tamanho dicionário compressão:1024, razão de compressão: 0.50, razão de compressão 2° fórmula: 0.40 
+
+Para K = 11 Tempo: 1.5562243461608887 segundos
+Tamanho máximo do dicionário: 2048, tamanho dicionário compressão:2048, razão de compressão: 0.51, razão de compressão 2° fórmula: 0.37 
+
+Para K = 12 Tempo: 1.5670766830444336 segundos
+Tamanho máximo do dicionário: 4096, tamanho dicionário compressão:4096, razão de compressão: 0.51, razão de compressão 2° fórmula: 0.34 
+
+Para K = 13 Tempo: 1.5369782447814941 segundos
+Tamanho máximo do dicionário: 8192, tamanho dicionário compressão:8192, razão de compressão: 0.54, razão de compressão 2° fórmula: 0.33 
+
+Para K = 14 Tempo: 1.4722075462341309 segundos
+Tamanho máximo do dicionário: 16384, tamanho dicionário compressão:16384, razão de compressão: 0.60, razão de compressão 2° fórmula: 0.34 
+
+Para K = 15 Tempo: 1.4799995422363281 segundos
+Tamanho máximo do dicionário: 32768, tamanho dicionário compressão:32768, razão de compressão: 0.69, razão de compressão 2° fórmula: 0.37 
+
+Para K = 16 Tempo: 1.558732032775879 segundos
+Tamanho máximo do dicionário: 65536, tamanho dicionário compressão:65536, razão de compressão: 0.82, razão de compressão 2° fórmula: 0.41 
+
+
+
+
+Arquivo: corpus16MB.txt
+
+Para K = 9 Tempo: 9.164329528808594 segundos
+Tamanho máximo do dicionário: 512, tamanho dicionário compressão:512, razão de compressão: 0.86, razão de compressão 2° fórmula: 0.77 
+
+Para K = 10 Tempo: 8.478436708450317 segundos
+Tamanho máximo do dicionário: 1024, tamanho dicionário compressão:1024, razão de compressão: 1.06, razão de compressão 2° fórmula: 0.85 
+
+Para K = 11 Tempo: 7.981592416763306 segundos
+Tamanho máximo do dicionário: 2048, tamanho dicionário compressão:2048, razão de compressão: 1.27, razão de compressão 2° fórmula: 0.92 
+
+Para K = 12 Tempo: 7.5539326667785645 segundos
+Tamanho máximo do dicionário: 4096, tamanho dicionário compressão:4096, razão de compressão: 1.46, razão de compressão 2° fórmula: 0.97 
+
+Para K = 13 Tempo: 7.2643959522247314 segundos
+Tamanho máximo do dicionário: 8192, tamanho dicionário compressão:8192, razão de compressão: 1.65, razão de compressão 2° fórmula: 1.01 
+
+Para K = 14 Tempo: 7.091824293136597 segundos
+Tamanho máximo do dicionário: 16384, tamanho dicionário compressão:16384, razão de compressão: 1.85, razão de compressão 2° fórmula: 1.06 
+
+Para K = 15 Tempo: 7.045568943023682 segundos
+Tamanho máximo do dicionário: 32768, tamanho dicionário compressão:32768, razão de compressão: 2.06, razão de compressão 2° fórmula: 1.10 
+
+Para K = 16 Tempo: 7.46742844581604 segundos
+Tamanho máximo do dicionário: 65536, tamanho dicionário compressão:65536, razão de compressão: 2.29, razão de compressão 2° fórmula: 1.14 
+
